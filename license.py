@@ -35,7 +35,7 @@ DEFAULT_CONFIG = {
 }
 
 # ==================== VERSION ====================
-VERSION = "3.1"
+VERSION = "0.1"
 YEAR = "2090"
 TOOLS_NAME = "ROXI OTP SPAMMER"
 
